@@ -1,0 +1,16 @@
+{
+  "appId": "com.kiran.myreels.saikiran2025",
+  "appName": "My Reels",
+  "webDir": "www",
+  "server": {
+    "allowNavigation": [
+      "res.cloudinary.com",
+      "api.jsonbin.io",
+      "api.shotstack.io",
+      "api.assemblyai.com",
+      "raw.githubusercontent.com",
+      "storage.googleapis.com",
+      "localhost"
+    ]
+  }
+}
